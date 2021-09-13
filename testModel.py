@@ -6,3 +6,5 @@ for i in range(numOfLines):
         print ("*")
     #print("\n")
 
+print("Try using different kinds of Patterns to learn more about conditions")
+
